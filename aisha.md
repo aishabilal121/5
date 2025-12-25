@@ -1,6 +1,4 @@
 ygugy
 ghfhf
 gfhgf
-ghfg
-fhf
-gff
+what is git
